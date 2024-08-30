@@ -1,4 +1,6 @@
-# task-tracker
+<h1 align="center">Task Tracker CLI  🚀</h1>
+
+#  Overview :dart:
 Task tracker is a project used to track and manage your tasks. In this task, you will build a simple command line interface (CLI) to track what you need to do, what you have done, and what you are currently working on. This project will help you practice your programming skills, including working with the filesystem, handling user inputs, and building a simple CLI application.
 
 ## Requirements
@@ -17,3 +19,9 @@ Each task should have the following properties:
   - status: The status of the task (not done, in-progress, done)
   - createdAt: The date and time when the task was created
   - updatedAt: The date and time when the task was last updated
+
+## How to run 
+  1. Clone the repository
+     git clone https://github.com/cristianmtz/task-tracker.git
+     cd TaskTracker
+  2. Compile and run Main.java
