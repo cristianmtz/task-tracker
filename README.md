@@ -22,6 +22,8 @@ Each task should have the following properties:
 
 ## How to run 
   1. Clone the repository
+     \```
      git clone https://github.com/cristianmtz/task-tracker.git
      cd TaskTracker
-  2. Compile and run Main.java
+     \```
+  3. Compile and run Main.java
